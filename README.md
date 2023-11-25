@@ -3,6 +3,5 @@
 PRACTICE<br>
 <head>SIGNUP<br>
     Email<br>
-  <input type="text"password></input><br>
-  <input type="text"message></input></h1>
+  <input type="text"></input>
 </head>
